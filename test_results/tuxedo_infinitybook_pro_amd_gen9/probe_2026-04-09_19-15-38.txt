@@ -28,7 +28,7 @@ Hardware: TUXEDO InfinityBook Pro AMD Gen9
         device     = 'Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]'
         class      = network
 
-  Category Total Score: 1/2
+  Category Total Score: 0.25/2
 
 --------------------
 
